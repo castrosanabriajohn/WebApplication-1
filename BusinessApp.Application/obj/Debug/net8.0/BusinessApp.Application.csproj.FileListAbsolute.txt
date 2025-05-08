@@ -1,0 +1,17 @@
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\bin\Debug\net8.0\BusinessApp.Application.deps.json
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\bin\Debug\net8.0\BusinessApp.Application.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\bin\Debug\net8.0\BusinessApp.Application.pdb
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\bin\Debug\net8.0\BusinessApp.Core.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\bin\Debug\net8.0\BusinessApp.Infrastructure.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\bin\Debug\net8.0\BusinessApp.Core.pdb
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\bin\Debug\net8.0\BusinessApp.Infrastructure.pdb
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\BusinessApp.Application.csproj.AssemblyReference.cache
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\BusinessApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\BusinessApp.Application.AssemblyInfoInputs.cache
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\BusinessApp.Application.AssemblyInfo.cs
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\BusinessApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\Business.F0EB3A9E.Up2Date
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\BusinessApp.Application.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\refint\BusinessApp.Application.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\BusinessApp.Application.pdb
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Application\obj\Debug\net8.0\ref\BusinessApp.Application.dll

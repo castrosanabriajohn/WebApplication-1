@@ -1,0 +1,15 @@
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\bin\Debug\net8.0\BusinessApp.Infrastructure.deps.json
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\bin\Debug\net8.0\BusinessApp.Infrastructure.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\bin\Debug\net8.0\BusinessApp.Infrastructure.pdb
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\bin\Debug\net8.0\BusinessApp.Core.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\bin\Debug\net8.0\BusinessApp.Core.pdb
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\BusinessApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\BusinessApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\BusinessApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\BusinessApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\BusinessApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\Business.05CF1A2B.Up2Date
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\BusinessApp.Infrastructure.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\refint\BusinessApp.Infrastructure.dll
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\BusinessApp.Infrastructure.pdb
+C:\Users\Jhon Sanabria\source\repos\BusinessApp\BusinessApp.Infrastructure\obj\Debug\net8.0\ref\BusinessApp.Infrastructure.dll
